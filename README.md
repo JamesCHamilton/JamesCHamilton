@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a curious and driven Computer Science undergraduate at Pace University (GPA: 3.70), passionate about building scalable web applications and intuitive user interfaces. I have experience across the stack — from designing React dashboards to engineering secure RESTful APIs with Express.js, and even deploying AI tools in real-world applications.
+I'm a curious and driven Computer Science undergraduate at Pace University (GPA: 3.59), passionate about building scalable web applications and intuitive user interfaces. I have experience across the stack — from designing React dashboards to engineering secure RESTful APIs with Express.js, and even deploying AI tools in real-world applications.
 
 My journey has included internships at startups like **Disruptive Capital**, **SWFTT**, and **BZ Marketing**, where I worked on projects involving emerging markets platforms, CRM tools, and AI-integrated marketing systems. I've also had the opportunity to guide younger coders as a **Coding Instructor** at The Coder School.
 

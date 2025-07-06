@@ -31,9 +31,6 @@ My journey has included internships at startups like **Disruptive Capital**, **S
 **Tech:** Next.js, Express.js, MongoDB, Python, Anthropic AI  
 A full-stack healthcare app with real-time messaging, appointment scheduling, and a machine learning microservice that predicts misdiagnoses with 85% accuracy.
 
-### 🚆 Commuter App (Challenge with MTA & NJ Transit)  
-**Tech:** Kotlin/Swift, Golang, Azure  
-Designed and pitched a commuter-friendly mobile app prototype with offline caching and integrated MTA/NJ Transit systems to senior transit officials.
 
 ---
 

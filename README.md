@@ -1,7 +1,7 @@
 # Hi, I'm James Hamilton 👋
 
 🎓 **Computer Science Student @ Pace University**  
-💼 **Software Engineer Intern | Backend Developer | FullStack Developer|  Coding Instructor**  
+💼 **Software Engineer Intern | Backend Developer | FullStack Developer |  Coding Instructor**  
 🌐 [LinkedIn](https://www.linkedin.com/in/james-hamilton-499514293/) • [GitHub](https://github.com/JamesCHamilton) • 📫 JH44743N@pace.edu
 
 ---

@@ -82,7 +82,8 @@ I’ve also worked as a **Software Engineer Intern at BZ Marketing**, where I op
 
 - Advanced backend performance and distributed microservices  
 - LLMs for automated code generation and AI reliability research  
-- Cross-platform development with Deno, Bun, and Rust  
+- Relearning Springboot(Maven)
+- Trying to do a cool C++ physcis simulation   
 
 ---
 

@@ -1,6 +1,6 @@
 # 👋 Hi, I'm James Hamilton  
 
-🎓 **Computer Science Student @ Pace University (GPA: 3.59)**  
+🎓 **Computer Science Student @ Pace University (GPA: 3.66)**  
 💼 **Software Engineer | AI Research Assistant | Full Stack Developer | Coding Instructor**  
 🌐 [LinkedIn](https://www.linkedin.com/in/james-hamilton-499514293/) • [GitHub](https://github.com/JamesCHamilton) • 📫 **JH44743N@pace.edu**
 
